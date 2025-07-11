@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on a react js project<br>I'm looking to work on DATA Analysis,VR ,XR technologies.<br>THE following are my social media handles:<br>https://www.youtube.com/@CHILLBOI45<br>https://www.linkedin.com/in/vinay-bahire/<br>https://www.instagram.com/vinaybahire/
+I'm currently working on a react js project<br>I'm looking to work on DATA Analysis,VR ,XR technologies.
+I'm ethusiastic about film review and film-making aswell.Also,I'm a video editor(cheaper though!)
 
 
 ## 🌐 Socials:
