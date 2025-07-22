@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently working on a react js project<br>I'm looking to work on DATA Analysis,VR ,XR technologies.
-I'm ethusiastic about film review and film-making aswell.Also,I'm a video editor(cheaper though!)
+I'm ethusiastic about film review and film-making aswell.Also,I'm a video editor.
 
 
 ## 🌐 Socials:
